@@ -29,14 +29,6 @@ body{
     }
     
     .form-control input:focus{
-      outline-color: #00695c;
+      outline-color: #f3a63b;
     }
   
-    .register-form{
-      border: 1px;
-      border-radius: 2px;
-      position: absolute;
-      top: 0;
-      right: 0;
-      
-    }
